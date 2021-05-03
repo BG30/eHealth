@@ -1,0 +1,88 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	}
+
+
+li {
+     float: left;
+   }
+
+li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      }
+
+li a:hover {
+            background-color: #111;
+           }
+.active {
+         background-color: #4CAF50;
+        }
+}
+#wrapper{margin: 0 auto;
+         width: 800px;
+		 }
+
+
+
+img {display: block; 
+     display: block;
+    margin: auto;}
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+body { width:75%;
+        margin-left:auto;
+        margin-right:auto;
+     padding: 10px 10px 10px 10px;
+display: block;}
+	 
+#flat{	background:url(background.jpg);
+         background-size: 100% 100%; 
+	 margin-left: 170px;
+	background-repeat: no-repeat;	 
+}
+
+#flatDoc{background:url(backgroundDoc.jpg);
+         height: 100%;
+		 /*background-size: 100% 100%; 
+		 margin-left: 170px;*/
+		 background-position: center;
+		 background-repeat: no-repeat;
+		 background-size: cover;
+		 background-repeat: no-repeat;
+	 }
+
+#fix {margin-left: 65px;
+      }
+.mySlides {display:none;}
+.navfont {font-family: 'Indie Flower', cursive;
+          font-size: 40px;
+		  padding-right: 20px;
+		  }
+.navdonate { font-family: 'Indie Flower', cursive;
+	         font-size: 40px;
+			 background-color:#dc143d;
+           }
+#introfont {font-family: 'Macondo', cursive; 
+            font-size: 30px;}
+#pic {float: right; 
+      border-radius: 40px;}
+#hfont {font-family: 'Indie Flower', cursive;
+	         font-size: 40px;
+			 margin-left:25px;}
+#floater{float: right;
+         border-radius: 8px;
+		 margin-top: -300px;
+		 margin-right: 70px;}
