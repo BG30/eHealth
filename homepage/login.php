@@ -31,7 +31,7 @@
 				<input type="radio" name="option" value="patient">Patient
 				<input type="radio" name="option" value="admin">Administrator<br>
 
-				<br><div class="g-recaptcha" data-sitekey="6LfrlHcUAAAAAL24KtAgO0Puf0Tt0WMXn8f8r-Rt"></div><br>
+				<br><div class="g-recaptcha" data-sitekey="5456481yourkeygoeshere454654"></div><br>
 				
 				<button name="submit" type="submit">Login</button>
 				<a href="register.php"><button type="button">Register</button></a>
